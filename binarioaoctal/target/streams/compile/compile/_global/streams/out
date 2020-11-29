@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\Kata1\binarioaoctal\src\main\scala\Kata1.scala:18:34: forward reference extends over definition of variable decimal[0m
+[0m[[0m[31merror[0m] [0m[0m    var decimal = binary2decimal(x)[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

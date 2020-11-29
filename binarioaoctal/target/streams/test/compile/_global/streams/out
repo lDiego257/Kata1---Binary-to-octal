@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\Kata1\binarioaoctal\src\test\scala\Kata1Test.scala:12:31: integer number too large[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(Kata1.binary2octal(0001000000000000) == 10000)[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

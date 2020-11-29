@@ -13,4 +13,17 @@ object Kata1 extends App {
     }
     decimal
   }
+
+  def binary2octal(y: Int)={
+    var decimal = binary2decimal(y)
+    var x = 1
+    var octal = 0
+
+    while(decimal != 0){
+      octal = octal + x* (decimal%8)
+      x = x * 10
+      decimal = decimal/8
+    }
+    octal
+  }
 }
